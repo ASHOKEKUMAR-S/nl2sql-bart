@@ -24,6 +24,8 @@ venv311/
 ENV/
 env.bak/
 venv.bak/
+.myenv
+myenv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
@@ -54,3 +56,5 @@ dist/
 #generted files
 run_id.txt
 *.csv
+models/bart-nl2sql/
+0.*
